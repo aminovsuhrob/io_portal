@@ -9,7 +9,7 @@ try {
     ];
 } catch (e) {
     usersList = [
-        { fullname: 'Bosh Admin', position: 'Dekan o`rinbosari', username: 'admin', password: '123', role: 'admin', phone: '+998 90 123 45 67', telegram: '@admin_fakultet', instagram: '@samdvmchbu', photo: 'https://cdn-icons-png.flaticon.com/512/3135/3135715.png' },
+        { fullname: 'Bosh Admin', position: 'Dekan o`rinbosari', username: 'Suhrob', password: 'Suhrob21', role: 'admin', phone: '+998 90 123 45 67', telegram: '@admin_fakultet', instagram: '@samdvmchbu', photo: 'https://cdn-icons-png.flaticon.com/512/3135/3135715.png' },
         { fullname: 'Foydalanuvchi', position: 'Inspektor', username: 'user', password: '123', role: 'user', phone: '+998 91 987 65 43', telegram: '@user_fakultet', instagram: '', photo: 'https://cdn-icons-png.flaticon.com/512/3135/3135715.png' }
     ];
 }
